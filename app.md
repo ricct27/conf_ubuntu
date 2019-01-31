@@ -15,13 +15,11 @@ Quake mode: Keybord > Custom Shortcats
 ```
 titix --quake
 ```
-
-
-## Command-line JSON processing tool 
-https://github.com/antonmedv/fx
-
+## Fish
 ```
-npm install -g fx
+sudo add-apt-repository ppa:fish-shell/release-3
+sudo apt-get update
+sudo apt install fish
 ```
 
 ## Atom
@@ -30,8 +28,19 @@ https://github.com/atom/atom
 
 
 ## Fraz
+https://meetfranz.com/
 
 ## Chrome
+https://www.google.com/chrome/
 
 ## GitKraken
+https://www.gitkraken.com/
 
+
+
+## Command-line JSON processing tool 
+https://github.com/antonmedv/fx
+
+```
+npm install -g fx
+```
