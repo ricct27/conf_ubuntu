@@ -5,4 +5,11 @@ https://github.com/antonmedv/fx
 
 ```
 npm install -g fx
-```console
+```
+
+## Atom
+
+## Fraz
+
+## Chrome
+
