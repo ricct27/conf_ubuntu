@@ -13,7 +13,7 @@ sudo apt install tilix
 ```
 Quake mode: Keybord > Custom Shortcats
 ```
-titix --quake
+tilix --quake
 ```
 ## Fish
 ```
