@@ -36,7 +36,13 @@ https://www.google.com/chrome/
 ## GitKraken
 https://www.gitkraken.com/
 
-
+## Foxit Reader
+https://www.foxitsoftware.com/downloads/
+```
+gzip -d 'FoxitReader_version_Setup.run.tar.gz' 
+tar xvf 'FoxitReader_version_Setup.run.tar'
+./'FoxitReader_version_Setup.run'
+```
 
 ## Command-line JSON processing tool 
 https://github.com/antonmedv/fx
