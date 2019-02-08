@@ -50,3 +50,8 @@ https://github.com/antonmedv/fx
 ```
 npm install -g fx
 ```
+
+## Comand line browser Lynx
+```
+sudo apt-get install lynx
+```
