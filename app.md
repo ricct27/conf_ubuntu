@@ -60,3 +60,6 @@ npm install -g fx
 ```
 sudo apt-get install lynx
 ```
+
+## PDFTK 
+PDFTK is a tool that can be used to split and merge PDF files. It is available for both Linux and Windows.
